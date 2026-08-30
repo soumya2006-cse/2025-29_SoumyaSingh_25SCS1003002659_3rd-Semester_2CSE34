@@ -1,4 +1,4 @@
-```markdown
+
 # Internship Evaluation Submission
 
 This repository contains the required documents for the internship evaluation.
@@ -10,6 +10,4 @@ This repository contains the required documents for the internship evaluation.
 * **Internship Certificate:** Official certificate of completion from the host organization.
 
 ---
-*Note: This repository is set to public for academic evaluation purposes.*
-
-```
+*Note: This repository is set to public for academic evaluation purposes.
